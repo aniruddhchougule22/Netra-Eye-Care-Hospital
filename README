@@ -1,0 +1,105 @@
+# NETRA Eye Care Hospital Management System
+
+A web-based **Hospital Management System** developed using **PHP** and **MySQL** for managing hospital operations efficiently. The system provides separate modules for **Patients, Doctors, and Admin**, making appointment booking and hospital management simple and organized.
+
+## Features
+
+- Patient Registration & Login
+- Doctor Login
+- Admin Login
+- Book Appointments
+- Manage Patient Records
+- Appointment Reports
+- Date-wise Report Generation
+- Secure Logout
+- Responsive User Interface
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+## Project Structure
+
+```text
+NETRA-Eye-Care/
+│── login.php
+│── logout.php
+│── report.php
+│── index.php
+│── header.php
+│── func1.php
+│── func2.php
+│── func3.php
+│── images/
+│── css/
+│── js/
+└── README.md
+```
+
+## Modules
+
+### Patient
+- Register Account
+- Login
+- Book Appointment
+- View Appointment Details
+
+### Doctor
+- Login
+- View Patient Appointments
+- Manage Appointments
+
+### Admin
+- Login
+- Manage Doctors
+- Manage Patients
+- Generate Appointment Reports
+
+## Installation
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/NETRA-Eye-Care-Hospital.git
+```
+
+2. Copy the project into the **htdocs** folder (XAMPP) or **www** folder (WAMP).
+
+3. Import the MySQL database into **phpMyAdmin**.
+
+4. Start **Apache** and **MySQL**.
+
+5. Open your browser and visit:
+
+```
+http://localhost/NETRA-Eye-Care/
+```
+
+## Requirements
+
+- PHP 7.4 or above
+- MySQL
+- Apache Server (XAMPP/WAMP/LAMP)
+- Web Browser
+
+## Future Improvements
+
+- Online Payment Integration
+- Email & SMS Notifications
+- Medical Report Upload
+- Doctor Availability Schedule
+- Prescription Management
+- Dashboard Analytics
+
+## Author
+
+**Aniruddh Chougule**
+
+## License
+
+This project is created for educational and learning purposes.    hya point chi mla file create karun de bhai
